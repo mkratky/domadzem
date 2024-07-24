@@ -1,6 +1,6 @@
 ---
 title: "DOMÁCÍ DŽEM"
-description: "Kapela pro pohodové akce."
+description: "Kapela pro pohodové akce"
 cascade:
   featured_image: '/images/domadzem.jpg'
 ---
