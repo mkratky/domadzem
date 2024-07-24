@@ -1,0 +1,4 @@
+baseURL = 'http://domacidzem.cz/'
+languageCode = 'cs-cz'
+title = 'DOMÁCÍ DŽEM'
+theme = 'ananke'
