@@ -4,8 +4,7 @@ description: "Kapela pro pohodové akce"
 cascade:
   featured_image: '/images/domadzem.jpg'
 ---
-Kapela Domácí Džem vznikla z domácího hraní jedné rodiny a jejich kamarádů. Hlavním tahounem kapely je zpěvačka Babeta, která by dnes v pohodě vyhrála soutěž Superstar, ale jak sama říká: „Na mě by se nikdo nechtěl dívat“ 
-:-)
+Kapela Domácí Džem vznikla z domácího hraní jedné rodiny a jejich kamarádů. 
 
 Zvuk kapely Domácí Džem je barvitý a hutný a lahodnými tóny vyplní především menší prostory, jako třeba kavárny a muzea.
 
