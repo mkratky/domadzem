@@ -8,5 +8,6 @@ menu: main
 
 ---
 
+Facebook: [Profil Domácí Džem](https://www.facebook.com/profile.php?id=61563264391376)
 
-Napište nám email na adresu kapely: [domadzem@gmail.com](mailto:domadzem@gmail.com)
+Email: [domadzem@gmail.com](mailto:domadzem@gmail.com)

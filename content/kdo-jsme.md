@@ -19,6 +19,11 @@ menu: main
 
   
   
-  Podívejte se na ukázku z živého vystoupení kapely: 
-  [Skladba Stand Up](/demos/StandUp.mp4)
+  Podívejte se na ukázky z živého vystoupení kapely: 
+
+  [Stand Up](/demos/StandUp.mp4)
+
+  [Never be the same again](/demos/Never-be-the-same.mov)
+
+  [You know I'm no good](https://fb.watch/ybZH2lg0_X/)
  
