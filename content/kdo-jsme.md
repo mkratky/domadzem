@@ -19,11 +19,11 @@ menu: main
 
   
 
-  Podívejte se na ukázky z živého vystoupení kapely:  \n
+  Podívejte se na ukázky z živého vystoupení kapely:
 
-  [Stand Up](/demos/StandUp.mp4) \n
+  [Stand Up](/demos/StandUp.mp4)
 
-  [Never be the same again](https://fb.watch/yfWUKjUTzD/) \n
+  [Never be the same again](https://fb.watch/yfWUKjUTzD/)
 
-  [You know I'm no good](https://fb.watch/ybZH2lg0_X/) \n
+  [You know I'm no good](https://fb.watch/ybZH2lg0_X/)
  

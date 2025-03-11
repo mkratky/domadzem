@@ -10,10 +10,12 @@ menu: main
 - |
 2025
 
-18.1. v 18:00, Hotel Jiřinka, Dolní Morava \n
-8.3.  v 18:00, Hotel Jiřinka, Dolní Morava \n
+18.1. v 18:00, Hotel Jiřinka, Dolní Morava
 
-?.?. , Kavárna na Střelnici, Králíky \n
+8.3.  v 18:00, Hotel Jiřinka, Dolní Morava
 
-27.6. v podvečer, zahrada knihovny, Vamberk, součást doprovodného programu Krajkářských slavností \n
-21.9. odpoledne, Červená Voda, pouťové slavnosti \n
+?.?. , Kavárna na Střelnici, Králíky
+
+27.6. v podvečer, zahrada knihovny, Vamberk, součást doprovodného programu Krajkářských slavností
+
+21.9. odpoledne, Červená Voda, pouťové slavnosti
