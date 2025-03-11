@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-featured_image: ''
+featured_image: '/images/kdo-jsme.jpg'
 omit_header_text: true
 description: Kontaktujte kapelu
 type: page

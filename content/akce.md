@@ -18,4 +18,4 @@ menu: main
 
 27.6. v podvečer, zahrada knihovny, Vamberk, součást doprovodného programu Krajkářských slavností
 
-21.9. odpoledne, Červená Voda, pouťové slavnosti
+20.9. odpoledne, Červená Voda, pouťové slavnosti
