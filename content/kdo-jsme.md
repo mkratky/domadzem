@@ -18,7 +18,7 @@ menu: main
   **Marek** - *aerophone a akustická kytara*
 
   
-  
+  - |
   Podívejte se na ukázky z živého vystoupení kapely: 
 
   [Stand Up](/demos/StandUp.mp4)

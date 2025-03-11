@@ -7,7 +7,7 @@ type: page
 menu: main
 
 ---
-
+- |
 You've Got The Love
 Human
 Never Tear Us Apart

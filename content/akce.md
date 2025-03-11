@@ -7,7 +7,7 @@ type: page
 menu: main
 
 ---
-
+- |
 2025
 
 18.1. v 18:00, Hotel Jiřinka, Dolní Morava
