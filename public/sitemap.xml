@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://domacidzem.cz/akce/</loc>
+  </url><url>
     <loc>http://domacidzem.cz/categories/</loc>
   </url><url>
     <loc>http://domacidzem.cz/</loc>
@@ -9,6 +11,8 @@
     <loc>http://domacidzem.cz/kdo-jsme/</loc>
   </url><url>
     <loc>http://domacidzem.cz/contact/</loc>
+  </url><url>
+    <loc>http://domacidzem.cz/repertoar/</loc>
   </url><url>
     <loc>http://domacidzem.cz/tags/</loc>
   </url>

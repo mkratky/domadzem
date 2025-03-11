@@ -8,6 +8,13 @@
     <language>cs-cz</language>
     <atom:link href="http://domacidzem.cz/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Akce</title>
+      <link>http://domacidzem.cz/akce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://domacidzem.cz/akce/</guid>
+      <description>2025&#xA;18.1. v 18:00, Hotel Jiřinka, Dolní Morava 8.3. v 18:00, Hotel Jiřinka, Dolní Morava&#xA;?.?. , Kavárna na Střelnici, Králíky&#xA;27.6. v podvečer, zahrada knihovny, Vamberk, součást doprovodného programu Krajkářských slavností 21.9. odpoledne, Červená Voda, pouťové slavnosti</description>
+    </item>
+    <item>
       <title>Kdo jsme</title>
       <link>http://domacidzem.cz/kdo-jsme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -20,6 +27,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://domacidzem.cz/contact/</guid>
       <description>Facebook: Profil Domácí Džem&#xA;Email: domadzem@gmail.com</description>
+    </item>
+    <item>
+      <title>Repertoár</title>
+      <link>http://domacidzem.cz/repertoar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://domacidzem.cz/repertoar/</guid>
+      <description>You&amp;rsquo;ve Got The Love Human Never Tear Us Apart Far Far Every Breath Back to Black Make You Feel My Love Someone Like Me Falling Slowly Heart of Gold Too Much Love She&amp;rsquo;s Gone Only Love Can Hurt Like This Torn Fields of Gold You Know I&amp;rsquo;m No Good Don’t Speak Always After Love Never Be The Same Again Just Be Shallow Stand Up Skyfall</description>
     </item>
   </channel>
 </rss>
