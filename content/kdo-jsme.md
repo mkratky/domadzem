@@ -18,12 +18,12 @@ menu: main
   **Marek** - *aerophone a akustická kytara*
 
   
-  - |
-  Podívejte se na ukázky z živého vystoupení kapely: 
 
-  [Stand Up](/demos/StandUp.mp4)
+  Podívejte se na ukázky z živého vystoupení kapely:  \n
 
-  [Never be the same again](https://fb.watch/yfWUKjUTzD/)
+  [Stand Up](/demos/StandUp.mp4) \n
 
-  [You know I'm no good](https://fb.watch/ybZH2lg0_X/)
+  [Never be the same again](https://fb.watch/yfWUKjUTzD/) \n
+
+  [You know I'm no good](https://fb.watch/ybZH2lg0_X/) \n
  

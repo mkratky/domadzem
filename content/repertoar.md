@@ -7,28 +7,28 @@ type: page
 menu: main
 
 ---
-- |
-You've Got The Love
-Human
-Never Tear Us Apart
-Far Far
-Every Breath
-Back to Black
-Make You Feel My Love
-Someone Like Me 
-Falling Slowly
-Heart of Gold
-Too Much Love
-She's Gone
-Only Love Can Hurt Like This
-Torn
-Fields of Gold
-You Know I'm No Good
-Don’t Speak
-Always
-After Love
-Never Be The Same Again
-Just Be
-Shallow
-Stand Up
-Skyfall
+
+You've Got The Love \n
+Human \n
+Never Tear Us Apart \n
+Far Far \n
+Every Breath \n
+Back to Black \n
+Make You Feel My Love \n
+Someone Like Me  \n
+Falling Slowly \n
+Heart of Gold \n
+Too Much Love \n
+She's Gone \n
+Only Love Can Hurt Like This \n
+Torn \n
+Fields of Gold \n
+You Know I'm No Good \n
+Don’t Speak \n
+Always \n
+After Love \n
+Never Be The Same Again \n
+Just Be \n
+Shallow \n
+Stand Up \n
+Skyfall \n
