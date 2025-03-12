@@ -2,3 +2,16 @@ baseURL = 'http://domacidzem.cz/'
 languageCode = 'cs-cz'
 title = 'DOMÁCÍ DŽEM'
 theme = 'ananke'
+resourceDir = "../resources"
+
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://www.facebook.com/profile.php?id=61563264391376"
+
+[params]
+author = "DOMÁCÍ DŽEM"
+recent_posts_number = 1
+mainSections = ["post"]
+background_color_class = "bg-mid-gray"
+cover_dimming_class = "bg-black-30"
+dimming_class = "bg-black-30"

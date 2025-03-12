@@ -1,6 +1,7 @@
 ---
 title: Repertoár
-featured_image: '/images/kdo-jsme.jpg'
+cascade:
+    featured_image: '/images/kdo-jsme.jpg'
 omit_header_text: true
 description: Jake skladby hrajeme
 type: page

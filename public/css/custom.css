@@ -1,0 +1,5 @@
+.background-image {
+    min-height: 600px; /* Increase height */
+    background-size: cover;
+    background-position: center;
+}

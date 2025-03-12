@@ -3,6 +3,7 @@ title: "DOMÁCÍ DŽEM"
 description: "Kapela pro pohodové akce"
 cascade:
   featured_image: '/images/domadzem.jpg'
+theme_version: '2.8.2'
 ---
 
 Kapela Domácí Džem vznikla z domácího hraní jedné rodiny a jejich kamarádů. 
