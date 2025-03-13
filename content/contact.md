@@ -9,6 +9,6 @@ menu: main
 
 ---
 
-Facebook: [Profil Domácí Džem](https://www.facebook.com/profile.php?id=61563264391376)
+Facebook: [https://www.facebook.com/domadzem](https://www.facebook.com/domadzem)
 
 Email: [domadzem@gmail.com](mailto:domadzem@gmail.com)
