@@ -1,8 +1,8 @@
 baseURL = 'http://domacidzem.cz/'
-languageCode = 'cs-cz'
 title = 'DOMÁCÍ DŽEM'
 theme = 'ananke'
 resourceDir = "../resources"
+defaultContentLanguage = "czech"
 
 [[params.ananke_socials]]
 name = "facebook"
@@ -15,3 +15,13 @@ mainSections = ["post"]
 background_color_class = "bg-mid-gray"
 cover_dimming_class = "bg-black-30"
 dimming_class = "bg-black-30"
+
+[languages]
+[languages.czech]
+languageCode = 'cs-cz'
+weight = 1
+contentDir = "content/cz"
+[languages.english]
+languageCode = 'en-US'
+weight = 2
+contentDir = "content/en"
