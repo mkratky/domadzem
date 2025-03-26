@@ -4,7 +4,7 @@ title: Kdo jsme
 cascade:
   featured_image: '/images/kdo-jsme.jpg'
 omit_header_text: true
-description: členové kapely
+description: členové kapely a ukázky z koncertů
 type: page
 menu: main
 
@@ -12,19 +12,20 @@ menu: main
 
 
 
-  **Babeta** - *sólový zpěv a piáno* 
+  {{< figure src="/images/babeta.jpg" title="Babeta - sólový zpěv a piáno" >}} 
 
-  **Míra** - *basová a sólová kytara* 
-
-  **Marek** - *aerophone a akustická kytara*
+  {{< figure src="/images/mira.jpg" title="Míra - basová a sólová kytara, vokály" >}} 
+ 
+  {{< figure src="/images/marek.jpg" title="Marek - aerophone a akustická kytara, vokály" >}} 
+ 
 
   
 
-  | Podívejte se na ukázky z živého vystoupení kapely:
+  Podívejte se na ukázky z živého vystoupení kapely:
 
-  | [Stand Up](/demos/StandUp.mp4)
+  [Stand Up](/demos/StandUp.mp4)
 
-  | [Never be the same again](https://fb.watch/yfWUKjUTzD/)
+  [Never be the same again](https://fb.watch/yfWUKjUTzD/)
 
-  | [You know I'm no good](https://fb.watch/ybZH2lg0_X/)
+  [You know I'm no good](https://fb.watch/ybZH2lg0_X/)
  

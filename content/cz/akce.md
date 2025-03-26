@@ -15,7 +15,7 @@ menu: main
 
 - | 8.3.  v 18:00, Hotel Jiřinka, Dolní Morava
 
-- | duben ?.?. , Kavárna na Střelnici, Králíky
+- | 19.4. v 20:00, Kavárna na Střelnici, Králíky
 
 - | 27.6. v podvečer, zahrada knihovny, Vamberk, součást doprovodného programu Krajkářských slavností
 

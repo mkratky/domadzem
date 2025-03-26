@@ -15,8 +15,8 @@ menu: main
 
 - | 8.3.  v 18:00, Hotel Jiřinka, Dolní Morava
 
-- | April ?.?. , Kavárna na Střelnici, Králíky
+- | 19.4. v 20:00, Kavárna na Střelnici, Králíky
 
-- | 27.6. evening, library garden, Vamberk
+- | 27.6. evening, public library garden, Vamberk
 
 - | 20.9. afternoon, Červená Voda, Fair festivities

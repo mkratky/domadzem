@@ -8,25 +8,11 @@
     <language>en-US</language>
     <atom:link href="http://domacidzem.cz/english/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About us</title>
-      <link>http://domacidzem.cz/english/kdo-jsme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://domacidzem.cz/english/kdo-jsme/</guid>
-      <description>Babeta - lead vocals and piano&#xA;Míra - bass and electric guitar, backing vocals&#xA;Marek - aerophone and acoustic guitar, backing vocals&#xA;| Check out clips from the band&amp;rsquo;s live performance:&#xA;| Stand Up&#xA;| Never be the same again&#xA;| You know I&amp;rsquo;m no good</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://domacidzem.cz/english/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://domacidzem.cz/english/contact/</guid>
-      <description>Facebook: facebook.com/domadzem&#xA;Email: domadzem@gmail.com</description>
-    </item>
-    <item>
       <title>Events</title>
       <link>http://domacidzem.cz/english/akce/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://domacidzem.cz/english/akce/</guid>
-      <description>2025&#xA;| 18.1. v 18:00, Hotel Jiřinka, Dolní Morava&#xA;| 8.3. v 18:00, Hotel Jiřinka, Dolní Morava&#xA;| April ?.?. , Kavárna na Střelnici, Králíky&#xA;| 27.6. evening, library garden, Vamberk&#xA;| 20.9. afternoon, Červená Voda, Fair festivities</description>
+      <description>2025&#xA;| 18.1. v 18:00, Hotel Jiřinka, Dolní Morava&#xA;| 8.3. v 18:00, Hotel Jiřinka, Dolní Morava&#xA;| 19.4. v 20:00, Kavárna na Střelnici, Králíky&#xA;| 27.6. evening, public library garden, Vamberk&#xA;| 20.9. afternoon, Červená Voda, Fair festivities</description>
     </item>
     <item>
       <title>Playlist</title>
@@ -34,6 +20,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://domacidzem.cz/english/repertoar/</guid>
       <description>We play cover versions of the songs:&#xA;You&amp;rsquo;ve Got The Love&#xA;Human&#xA;Never Tear Us Apart&#xA;Far Far&#xA;Every Breath You Take&#xA;Back to Black&#xA;Make You Feel My Love&#xA;Someone Like Me&#xA;Falling Slowly&#xA;Heart of Gold&#xA;Too Much Love&#xA;She&amp;rsquo;s Gone&#xA;Only Love Can Hurt Like This&#xA;Torn&#xA;Fields of Gold&#xA;You Know I&amp;rsquo;m No Good&#xA;Don’t Speak&#xA;Always&#xA;After Love&#xA;Never Be The Same Again&#xA;Just Be</description>
+    </item>
+    <item>
+      <title>Reach out</title>
+      <link>http://domacidzem.cz/english/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://domacidzem.cz/english/contact/</guid>
+      <description>Facebook: facebook.com/domadzem&#xA;Email: domadzem@gmail.com</description>
+    </item>
+    <item>
+      <title>Who We Are</title>
+      <link>http://domacidzem.cz/english/kdo-jsme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://domacidzem.cz/english/kdo-jsme/</guid>
+      <description>Babeta - lead vocals and piano Míra - bass and electric guitar, backing vocals Marek - aerophone and acoustic guitar, backing vocals Check out clips from the band&amp;rsquo;s live performance:&#xA;Stand Up&#xA;Never be the same again&#xA;You know I&amp;rsquo;m no good</description>
     </item>
   </channel>
 </rss>

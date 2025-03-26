@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Reach out
 cascade:
     featured_image: '/images/kdo-jsme.jpg'
 omit_header_text: true

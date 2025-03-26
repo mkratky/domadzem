@@ -1,6 +1,6 @@
 
 ---
-title: About us
+title: Who We Are
 cascade:
   featured_image: '/images/kdo-jsme.jpg'
 omit_header_text: true
@@ -12,19 +12,19 @@ menu: main
 
 
 
-  **Babeta** - *lead vocals and piano* 
+  {{< figure src="/images/babeta.jpg" title="Babeta - lead vocals and piano" >}} 
 
-  **Míra** - *bass and electric guitar, backing vocals* 
-
-  **Marek** - *aerophone and acoustic guitar, backing vocals*
-
+  {{< figure src="/images/mira.jpg" title="Míra - bass and electric guitar, backing vocals" >}} 
+ 
+  {{< figure src="/images/marek.jpg" title="Marek - aerophone and acoustic guitar, backing vocals" >}} 
+ 
   
 
-  | Check out clips from the band's live performance:
+  Check out clips from the band's live performance:
 
-  | [Stand Up](/demos/StandUp.mp4)
+  [Stand Up](/demos/StandUp.mp4)
 
-  | [Never be the same again](https://fb.watch/yfWUKjUTzD/)
+  [Never be the same again](https://fb.watch/yfWUKjUTzD/)
 
-  | [You know I'm no good](https://fb.watch/ybZH2lg0_X/)
+  [You know I'm no good](https://fb.watch/ybZH2lg0_X/)
  

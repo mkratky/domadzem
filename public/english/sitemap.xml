@@ -2,18 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://domacidzem.cz/english/kdo-jsme/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cs-cz"
-                href="http://domacidzem.cz/kdo-jsme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://domacidzem.cz/english/kdo-jsme/"
-                />
-  </url><url>
     <loc>http://domacidzem.cz/english/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -24,18 +12,6 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://domacidzem.cz/english/categories/"
-                />
-  </url><url>
-    <loc>http://domacidzem.cz/english/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cs-cz"
-                href="http://domacidzem.cz/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://domacidzem.cz/english/contact/"
                 />
   </url><url>
     <loc>http://domacidzem.cz/english/</loc>
@@ -74,6 +50,18 @@
                 href="http://domacidzem.cz/english/repertoar/"
                 />
   </url><url>
+    <loc>http://domacidzem.cz/english/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs-cz"
+                href="http://domacidzem.cz/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://domacidzem.cz/english/contact/"
+                />
+  </url><url>
     <loc>http://domacidzem.cz/english/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -84,6 +72,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://domacidzem.cz/english/tags/"
+                />
+  </url><url>
+    <loc>http://domacidzem.cz/english/kdo-jsme/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs-cz"
+                href="http://domacidzem.cz/kdo-jsme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://domacidzem.cz/english/kdo-jsme/"
                 />
   </url>
 </urlset>
