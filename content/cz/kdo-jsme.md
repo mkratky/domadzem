@@ -23,9 +23,10 @@ menu: main
 
   Podívejte se na ukázky z živého vystoupení kapely:
 
-  [Stand Up](/demos/StandUp.mp4)
-
-  [Never be the same again](https://fb.watch/yfWUKjUTzD/)
-
+ 
+  **Never be the same again** {{< youtube B8OpmpwMFeI >}} 
+ 
   [You know I'm no good](https://fb.watch/ybZH2lg0_X/)
+  
+  [Stand Up](/demos/StandUp.mp4)
  
