@@ -62,6 +62,18 @@
                 href="http://domacidzem.cz/contact/"
                 />
   </url><url>
+    <loc>http://domacidzem.cz/stageplan/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://domacidzem.cz/english/stageplan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs-cz"
+                href="http://domacidzem.cz/stageplan/"
+                />
+  </url><url>
     <loc>http://domacidzem.cz/repertoar/</loc>
     <xhtml:link
                 rel="alternate"
