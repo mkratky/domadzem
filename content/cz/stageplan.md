@@ -12,7 +12,7 @@ menu: main
 
 
 
-  {{< figure src="/images/stageview.jpg" title="Rozložení nástrojů a ostatní techniky na pódiu" >}} 
+  {{< figure src="/images/stageview.jpg" title="Rozložení nástrojů a zvukové techniky na pódiu" >}} 
 
   {{< figure src="/images/stageplan.jpg" title="Plán pódia pro zapojení do elektrické sítě" >}} 
 
