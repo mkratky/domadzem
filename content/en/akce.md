@@ -17,9 +17,15 @@ menu: main
 
 - | [19.4. at 20:00, Kavárna na Střelnici, Králíky](https://www.facebook.com/permalink.php?story_fbid=pfbid0pbc8HJ812xv5QznnRn7SU2zRRdxgWZXrbfDqJhSn6xjtQKvjuc2mWjrWWC4zZRLdl&id=100054493928106)
 
-- | 3.5. at 19:00, ART Club, Šumperk
+- | [3.5. at 19:00, ART Club, Šumperk](https://www.facebook.com/events/2723458744511424/)
 
-- | [27.6. at 19:30, public library garden, Vamberk](https://fb.me/e/32gjfNKZq)
+- | 14.6. at 18:00, Hotel Jiřinka, Dolní Morava
+
+- | [27.6. at 19:30, public library garden, Vamberk](https://www.facebook.com/events/995163399187220/)
+
+- | 16.8. at 18:00, Hotel Jiřinka, Dolní Morava
+
+- | 13.9. at 18:00, Hotel Jiřinka, Dolní Morava
 
 - | 20.9. afternoon, Červená Voda, Fair festivities
 
