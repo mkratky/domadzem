@@ -6,7 +6,7 @@ cascade:
 theme_version: '2.8.2'
 ---
 
-The band Domácí Džem was born a few years ago from home jam sessions with our family and friends. The band's sound is colorful and rich, filling smaller venues with delightful tones — places like music bars, cafés, garden parties or even museums.
+The band Domácí Džem was born a few years ago from home jam sessions with our family and friends. The band's sound is colorful and rich, filling smaller venues with delightful tones — places like music bars, cafés, garden parties or even libraries and museums.
 
 Our recipe:  
 

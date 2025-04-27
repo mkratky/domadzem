@@ -8,7 +8,7 @@ theme_version: '2.8.2'
 
 Kapela Domácí Džem vznikla z domácího hraní jedné rodiny a jejich kamarádů. 
 
-Zvuk kapely Domácí Džem je barvitý a hutný a lahodnými tóny vyplní především menší prostory, jako třeba hudební kluby, kavárny, venkovní zahrádky nebo také muzea.
+Zvuk kapely Domácí Džem je barvitý a hutný a lahodnými tóny vyplní především menší prostory, jako třeba hudební kluby, kavárny, venkovní zahrádky nebo také knihovny a muzea.
 
 Náš recept:
 
