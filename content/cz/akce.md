@@ -19,7 +19,7 @@ menu: main
 
 - | [3.5. v 19:00, ART Club, Šumperk](https://www.facebook.com/events/2723458744511424/)
 
-- | 14.6. v 18:00, Hotel Jiřinka, Dolní Morava
+- | ~~14.6. v 18:00, Hotel Jiřinka, Dolní Morava~~ zrušeno ze zdravotních důvodů
 
 - | [27.6. v 19:30, zahrada knihovny, Vamberk](https://www.facebook.com/events/995163399187220/)
 
