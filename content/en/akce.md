@@ -21,7 +21,7 @@ menu: main
 
 - | ~~14.6. at 18:00, Hotel Jiřinka, Dolní Morava~~ cancelled for health reasons 
 
-- | [27.6. at 19:30, public library garden, Vamberk](https://www.facebook.com/events/995163399187220/)
+- | ~~[27.6. at 19:30, public library garden, Vamberk](https://www.facebook.com/events/995163399187220/)~~ cancelled for health reasons 
 
 - | 16.8. at 18:00, Hotel Jiřinka, Dolní Morava
 

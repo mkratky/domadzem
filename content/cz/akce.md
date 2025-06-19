@@ -21,7 +21,7 @@ menu: main
 
 - | ~~14.6. v 18:00, Hotel Jiřinka, Dolní Morava~~ zrušeno ze zdravotních důvodů
 
-- | [27.6. v 19:30, zahrada knihovny, Vamberk](https://www.facebook.com/events/995163399187220/)
+- | ~~[27.6. v 19:30, zahrada knihovny, Vamberk](https://www.facebook.com/events/995163399187220/)~~ zrušeno ze zdravotních důvodů
 
 - | 16.8. v 18:00, Hotel Jiřinka, Dolní Morava
 
