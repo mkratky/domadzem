@@ -8,7 +8,7 @@ type: page
 menu: main
 
 ---
-{{< figure src="/images/Jirinka-15.8.2025.jpg" title="After a three-month involuntary health break, we’re excited to return to the stage – on August 15th at 6 PM at Hotel Jiřinka." >}} 
+{{< figure src="/images/Jirinka-16.8.2025.jpg" title="After a three-month involuntary health break, we’re excited to return to the stage – on August 16th at 6 PM at Hotel Jiřinka." >}} 
 
 2025
 

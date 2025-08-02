@@ -8,7 +8,7 @@ type: page
 menu: main
 
 ---
-{{< figure src="/images/Jirinka-15.8.2025.jpg" title="Po tříměsíční nedobrovolné zdravotní pauze se opět vracíme na scénu – 15. srpna od 18 hodin v hotelu Jiřinka." >}} 
+{{< figure src="/images/Jirinka-16.8.2025.jpg" title="Po tříměsíční nedobrovolné zdravotní pauze se opět vracíme na scénu – 16. srpna od 18 hodin v hotelu Jiřinka." >}} 
 
 2025
 
