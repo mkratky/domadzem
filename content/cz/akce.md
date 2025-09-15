@@ -8,7 +8,7 @@ type: page
 menu: main
 
 ---
-{{< figure src="/images/Jirinka-16.8.2025.jpg" title="Po tříměsíční nedobrovolné zdravotní pauze se opět vracíme na scénu – 16. srpna od 18 hodin v hotelu Jiřinka." >}} 
+{{< figure src="/images/cv_pout_2025.jpg" title="V sobotu 20. září od 16 hodin hrajeme na pouťi v Červené Vodě." >}} 
 
 2025
 
@@ -22,10 +22,12 @@ menu: main
 
 - | ~~14.6. v 18:00, Hotel Jiřinka, Dolní Morava~~ zrušeno ze zdravotních důvodů
 
-- | ~~[27.6. v 19:30, zahrada knihovny, Vamberk](https://www.facebook.com/events/995163399187220/)~~ zrušeno ze zdravotních důvodů
+- | ~~27.6. v 19:30, zahrada knihovny, Vamberk~~ zrušeno ze zdravotních důvodů
 
 - | 16.8. v 18:00, Hotel Jiřinka, Dolní Morava
 
-- | 13.9. v 18:00, Hotel Jiřinka, Dolní Morava
+- | [13.9. v 18:00, Hotel Jiřinka, Dolní Morava](https://www.facebook.com/hoteljirinka/posts/pfbid02C5MDyHJ1QK9cpyYJzEUFdqRTS1gNHxe79yagmPQSnqUZYXHQMdixQZ6nXpJR4cYDl)
 
-- | 20.9. odpoledne, Červená Voda, pouťové slavnosti
+- | [20.9. 16:00, Červenovodská pouť 2025, Červená Voda](https://cervenavoda.cz/kalendar-akci/cervenovodska-pout-20--21--zari-2025) 
+
+- | 20.12. v 20:00, Vánoční koncert, Kavárna na Střelnici, Králíky

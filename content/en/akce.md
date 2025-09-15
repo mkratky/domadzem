@@ -8,7 +8,7 @@ type: page
 menu: main
 
 ---
-{{< figure src="/images/Jirinka-16.8.2025.jpg" title="After a three-month involuntary health break, we’re excited to return to the stage – on August 16th at 6 PM at Hotel Jiřinka." >}} 
+{{< figure src="/images/cv_pout_2025.jpg" title="Saturday, 20th September from 4 PM, Fair in Červená Voda." >}} 
 
 2025
 
@@ -22,12 +22,14 @@ menu: main
 
 - | ~~14.6. at 18:00, Hotel Jiřinka, Dolní Morava~~ cancelled for health reasons 
 
-- | ~~[27.6. at 19:30, public library garden, Vamberk](https://www.facebook.com/events/995163399187220/)~~ cancelled for health reasons 
+- | ~~27.6. at 19:30, public library garden, Vamberk~~ cancelled for health reasons 
 
 - | 16.8. at 18:00, Hotel Jiřinka, Dolní Morava
 
-- | 13.9. at 18:00, Hotel Jiřinka, Dolní Morava
+- | [13.9. at 18:00, Hotel Jiřinka, Dolní Morava](https://www.facebook.com/hoteljirinka/posts/pfbid02C5MDyHJ1QK9cpyYJzEUFdqRTS1gNHxe79yagmPQSnqUZYXHQMdixQZ6nXpJR4cYDl)
 
-- | 20.9. afternoon, Červená Voda, Fair festivities
+- | [20.9. at 16:00,  Fair 2025, Červená Voda](https://cervenavoda.cz/kalendar-akci/cervenovodska-pout-20--21--zari-2025) 
+
+- | 20.12. at 20:00, Christmas concert, Kavárna na Střelnici, Králíky
 
 
