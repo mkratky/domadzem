@@ -8,7 +8,7 @@ type: page
 menu: main
 
 ---
-{{< figure src="/images/cv_pout_2025.jpg" title="V sobotu 20. září od 16 hodin hrajeme na pouťi v Červené Vodě." >}} 
+{{< figure src="/images/cv_pout_2025.jpg" title="V sobotu 20. září od 16 hodin hrajeme na pouti v Červené Vodě." >}} 
 
 2025
 
