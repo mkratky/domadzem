@@ -8,7 +8,6 @@ type: page
 menu: main
 
 ---
-{{< figure src="/images/cv_pout_2025.jpg" title="V sobotu 20. září od 16 hodin hrajeme na pouti v Červené Vodě." >}} 
 
 2025
 
@@ -30,4 +29,6 @@ menu: main
 
 - | [20.9. 16:00, Červenovodská pouť 2025, Červená Voda](https://cervenavoda.cz/kalendar-akci/cervenovodska-pout-20--21--zari-2025) 
 
-- | 20.12. v 20:00, Vánoční koncert, Kavárna na Střelnici, Králíky
+- | 20.12. v 20:00, Kavárna na Střelnici, Králíky
+
+- | 30.12. v 18:00, Hotel Jiřinka, Dolní Morava

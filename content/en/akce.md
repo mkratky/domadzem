@@ -8,7 +8,6 @@ type: page
 menu: main
 
 ---
-{{< figure src="/images/cv_pout_2025.jpg" title="Saturday, 20th September from 4 PM, Fair in Červená Voda." >}} 
 
 2025
 
@@ -30,6 +29,8 @@ menu: main
 
 - | [20.9. at 16:00,  Fair 2025, Červená Voda](https://cervenavoda.cz/kalendar-akci/cervenovodska-pout-20--21--zari-2025) 
 
-- | 20.12. at 20:00, Christmas concert, Kavárna na Střelnici, Králíky
+- | 20.12. at 20:00, Kavárna na Střelnici, Králíky
+
+- | 30.12. at 18:00, Hotel Jiřinka, Dolní Morava
 
 
