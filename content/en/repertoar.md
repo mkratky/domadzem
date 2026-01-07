@@ -64,3 +64,7 @@ Dream On
 Feel Better
 
 Valerie
+
+Shape Of My Heart
+
+It's Probably Me

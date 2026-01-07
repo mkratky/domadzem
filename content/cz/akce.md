@@ -9,6 +9,12 @@ menu: main
 
 ---
 
+2026
+
+- | 24.1. v 18:00, Hotel Jiřinka, Dolní Morava
+
+
+
 2025
 
 - | [18.1. v 18:00, Hotel Jiřinka, Dolní Morava](https://www.facebook.com/hoteljirinka/posts/pfbid02Btt7Bfvopgm6YhvGQXGPVvjFbXTyzy3s5P5RzfkPxP6gyBDwhxZYMP9BupQD1rnpl)
@@ -29,6 +35,6 @@ menu: main
 
 - | [20.9. 16:00, Červenovodská pouť 2025, Červená Voda](https://cervenavoda.cz/kalendar-akci/cervenovodska-pout-20--21--zari-2025) 
 
-- | 20.12. v 20:00, Kavárna na Střelnici, Králíky
+- | [20.12. v 20:00, Kavárna na Střelnici, Králíky](https://www.facebook.com/permalink.php?story_fbid=pfbid02Js7gFVvQKEobh6RR2v1x8WoeyhvwJZYDZPSepQvaDjLdktot8eBM9vAU7Vj71PBrl&id=100054493928106)
 
-- | 30.12. v 18:00, Hotel Jiřinka, Dolní Morava
+- | [30.12. v 18:00, Hotel Jiřinka, Dolní Morava](https://www.facebook.com/hoteljirinka/posts/pfbid02r8zCgqxHSceWS2aNJJ6Z3v9V2Bzd8PmARNkSULGQanmcUYi7DmRf4hic9d4nTztql)
