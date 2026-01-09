@@ -13,6 +13,10 @@ menu: main
 
 - | 24.1. at 18:00, Hotel Jiřinka, Dolní Morava
 
+- | 14.2. at 18:00, Hotel Jiřinka, Dolní Morava
+
+- | 28.2. at 18:00, Hotel Jiřinka, Dolní Morava
+
 
 2025
 
