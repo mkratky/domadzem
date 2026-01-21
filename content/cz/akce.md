@@ -11,13 +11,14 @@ menu: main
 
 2026
 
-- | 24.1. v 18:00, Hotel Jiřinka, Dolní Morava
+- | 24.1. v 19:00, Hotel Jiřinka, Dolní Morava
+{{< figure src="/images/jirinka_leden_2026.jpg" title="" >}}
 
-- | 14.2. v 18:00, Hotel Jiřinka, Dolní Morava
+- | 14.2. v 19:00, Hotel Jiřinka, Dolní Morava
 
-- | 28.2. v 18:00, Hotel Jiřinka, Dolní Morava
+- | 28.2. v 19:00, Hotel Jiřinka, Dolní Morava
 
-
+- | 19.9. ,Červenovodská pouť 2026, Červená Voda
 
 2025
 
@@ -37,7 +38,9 @@ menu: main
 
 - | [13.9. v 18:00, Hotel Jiřinka, Dolní Morava](https://www.facebook.com/hoteljirinka/posts/pfbid02C5MDyHJ1QK9cpyYJzEUFdqRTS1gNHxe79yagmPQSnqUZYXHQMdixQZ6nXpJR4cYDl)
 
-- | [20.9. 16:00, Červenovodská pouť 2025, Červená Voda](https://cervenavoda.cz/kalendar-akci/cervenovodska-pout-20--21--zari-2025) 
+- | [20.9. v 16:00, Červenovodská pouť 2025, Červená Voda](https://cervenavoda.cz/kalendar-akci/cervenovodska-pout-20--21--zari-2025) 
+
+- | 12.12. v 20:00, Café Imperial, Mariánské Lázně
 
 - | [20.12. v 20:00, Kavárna na Střelnici, Králíky](https://www.facebook.com/permalink.php?story_fbid=pfbid02Js7gFVvQKEobh6RR2v1x8WoeyhvwJZYDZPSepQvaDjLdktot8eBM9vAU7Vj71PBrl&id=100054493928106)
 
