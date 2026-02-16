@@ -18,7 +18,9 @@ url = "https://www.facebook.com/domadzem"
 [[params.ananke_socials]]
 name = "youtube"
 url = "https://www.youtube.com/@domacidzem"
-
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://www.instagram.com/domadzem"
 
 [languages]
 [languages.czech]

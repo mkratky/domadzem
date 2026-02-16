@@ -14,7 +14,7 @@ menu: main
 - | 24.1. v 19:00, Hotel Jiřinka, Dolní Morava
 {{< figure src="/images/jirinka_leden_2026.jpg" title="" >}}
 
-- | 14.2. v 19:00, Hotel Jiřinka, Dolní Morava
+- | [14.2. v 19:00, Hotel Jiřinka, Dolní Morava](https://www.facebook.com/hoteljirinka/posts/pfbid02E2Mo7uQAyKMs3xEMFYb2w43GThgoBz88Yp6sHdHoihYPf1RxBwSXKetAwpgsif2yl) 
 
 - | 28.2. v 19:00, Hotel Jiřinka, Dolní Morava
 
