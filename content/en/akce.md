@@ -12,11 +12,14 @@ menu: main
 2026
 
 - | 24.1. at 19:00, Hotel Jiřinka, Dolní Morava
-{{< figure src="/images/jirinka_leden_2026.jpg" title="" >}}
 
 - | [14.2. at 19:00, Hotel Jiřinka, Dolní Morava](https://www.facebook.com/hoteljirinka/posts/pfbid02E2Mo7uQAyKMs3xEMFYb2w43GThgoBz88Yp6sHdHoihYPf1RxBwSXKetAwpgsif2yl) 
 
-- | 28.2. at 19:00, Hotel Jiřinka, Dolní Morava
+- | [28.2. at 19:00, Hotel Jiřinka, Dolní Morava](https://www.facebook.com/share/v/1BjPEkkRQc/)
+
+- | 16.5. at 20:00, Kavárna na Střelnici, Králíky
+
+- | Summer season (July - September), Hotel Jiřinka, Dolní Morava
 
 - | 19.9. ,Fair 2026, Červená Voda
 
