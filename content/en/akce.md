@@ -19,6 +19,8 @@ menu: main
 
 - | 16.5. at 20:00, Kavárna na Střelnici, Králíky
 
+- | 6.6. at 19:00, Korek Winebar, Brno
+
 - | Summer season (July - September), Hotel Jiřinka, Dolní Morava
 
 - | 19.9. ,Fair 2026, Červená Voda

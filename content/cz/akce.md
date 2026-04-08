@@ -19,6 +19,8 @@ menu: main
 
 - | 16.5. v 20:00, Kavárna na Střelnici, Králíky
 
+- | 6.6. v 19:00, Korek Winebar, Brno
+
 - | Letní sezóna (červenec - září), Hotel Jiřinka, Dolní Morava
 
 - | 19.9. ,Červenovodská pouť 2026, Červená Voda
