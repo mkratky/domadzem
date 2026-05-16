@@ -17,9 +17,9 @@ menu: main
 
 - | [28.2. at 19:00, Hotel Jiřinka, Dolní Morava](https://www.facebook.com/share/v/1BjPEkkRQc/)
 
-- | 16.5. at 20:00, Kavárna na Střelnici, Králíky
+- | [16.5. at 20:00, Kavárna na Střelnici, Králíky](https://www.facebook.com/permalink.php?story_fbid=pfbid0NGXpRFECEksNdQftz2nqzgXAhCrpEpCTpWbv23NWCheZDAtLBm7ANUBGk4Ch6vo8l&id=100054493928106)
 
-- | 6.6. at 19:00, Korek Winebar, Brno
+- | 13.6. at 19:00, Sousedská slavnost, Střelnice, Králíky
 
 - | Summer season (July - September), Hotel Jiřinka, Dolní Morava
 
