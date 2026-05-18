@@ -31,6 +31,8 @@ menu: main
 
   **Make You Feel My Love - Babet solo** {{< instagram DYe6tliFCUj >}}
 
+  **Modry ptak - Mira solo on el. guitar** {{< youtube g579y2z-EeY >}} 
+
   **Never be the same again** {{< youtube B8OpmpwMFeI >}} 
 
   **You know I'm no good** {{< youtube gtpjeDpDenQ >}}         
