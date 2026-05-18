@@ -11,13 +11,13 @@ menu: main
 ---
 
 
+  **Poster** {{< figure src="/images/poster.jpg" >}} 
+  [Dowload poster](/images/poster.jpg)
 
-  {{< figure src="/images/stageview.jpg" title="Stage layout showing the placement of instruments and sound equipment" >}} 
+  **Stage layout showing the placement of instruments and sound equipment** {{< figure src="/images/stageview.jpg" >}}
+  [Dowload stage layout](/images/stageview.jpg) 
 
-  {{< figure src="/images/stageplan.jpg" title="Stage plan for electrical network setup" >}} 
-
-  [Dowload stage layout](/images/stageview.jpg)
-
+  **Stage plan for electrical network setup** {{< figure src="/images/stageplan.jpg" >}} 
   [Download stage plan](/images/stageplan.jpg)
 
-
+  
