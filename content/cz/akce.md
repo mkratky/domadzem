@@ -19,11 +19,14 @@ menu: main
 
 - | [16.5. v 20:00, Kavárna na Střelnici, Králíky](https://www.facebook.com/permalink.php?story_fbid=pfbid0NGXpRFECEksNdQftz2nqzgXAhCrpEpCTpWbv23NWCheZDAtLBm7ANUBGk4Ch6vo8l&id=100054493928106)
 
-- | 13.6. v 19:00, Sousedská slavnost, Střelnice, Králíky
+- | 13.6. v 18:30, Sousedská slavnost, Střelnice, Králíky
 
 - | Letní sezóna (červenec - září), Hotel Jiřinka, Dolní Morava
 
-- | 19.9. ,Červenovodská pouť 2026, Červená Voda
+- | 19.9. v 17:30, Červenovodská pouť 2026, Červená Voda
+
+- | 27.10. at 18:00, Music cafe TY∙JÁ∙TR, Letohrad
+
 
 2025
 
