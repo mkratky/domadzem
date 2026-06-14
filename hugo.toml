@@ -1,5 +1,5 @@
 baseURL = 'http://domacidzem.cz/'
-title = 'DOMÁCÍ DŽEM'
+title = 'DOMÁCÍ DŽEM  DomaDzem'
 theme = 'ananke'
 resourceDir = "../resources"
 defaultContentLanguage = "czech"

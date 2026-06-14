@@ -1,12 +1,12 @@
 ---
 title: "DOMÁCÍ DŽEM"
-description: "A band for relaxed events"
+description: "DomaDzem is your band for relaxed events"
 cascade:
   featured_image: '/images/domadzem.jpg'
 theme_version: '2.8.2'
 ---
 
-Domácí Džem is a trio of musicians bound together by a shared love for great music. Our biggest passions are British rock, pop, and soul, which is why our repertoire mainly features well-known international hits. However, we don't just do carbon copies; we give each song our own original twist.
+Domácí Džem or DomaDzem is a trio of musicians bound together by a shared love for great music. Our biggest passions are British rock, pop, and soul, which is why our repertoire mainly features well-known international hits. However, we don't just do carbon copies; we give each song our own original twist.
 
 Though there are only three of us, our sound will surprise you with its fullness and energy. We love blending the traditional with the modern.
 

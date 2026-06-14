@@ -19,13 +19,19 @@ menu: main
 
 - | [16.5. at 20:00, Kavárna na Střelnici, Králíky](https://www.facebook.com/permalink.php?story_fbid=pfbid0NGXpRFECEksNdQftz2nqzgXAhCrpEpCTpWbv23NWCheZDAtLBm7ANUBGk4Ch6vo8l&id=100054493928106)
 
-- | 13.6. at 18:30, Sousedská slavnost, Střelnice, Králíky
+- | [13.6. at 18:30, Sousedská slavnost, Střelnice, Králíky](https://www.facebook.com/events/1982517959046264/)
 
-- | Summer season (July - September), Hotel Jiřinka, Dolní Morava
+- | 4.7. at 18:30, Hotel Jiřinka, Dolní Morava
+
+- | 18.7. at 18:30, Hotel Jiřinka, Dolní Morava
+
+- | 1.8. at 18:30, Hotel Jiřinka, Dolní Morava
+
+- | 29.8. at 18:30, Hotel Jiřinka, Dolní Morava
 
 - | 19.9. at 17:30, Fair 2026, Červená Voda
 
-- | 27.10. at 18:00 Hudební kavárna TY∙JÁ∙TR, Letohrad
+- | [27.10. at 18:00 Hudební kavárna TY∙JÁ∙TR, Letohrad](https://www.facebook.com/hudebnikavarna/posts/pfbid02S6Tnn1tzzc1ErmUey5oEABjJc99gxSMPkutjgCmABN2yEwsSuP5z2aGSnK6rBwyXl)
 
 
 2025
