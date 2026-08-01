@@ -21,11 +21,11 @@ menu: main
 
 - | [13.6. at 18:30, Sousedská slavnost, Střelnice, Králíky](https://www.facebook.com/events/1982517959046264/)
 
-- | 4.7. at 18:30, Hotel Jiřinka, Dolní Morava
+- | [4.7. at 18:30, Hotel Jiřinka, Dolní Morava](https://www.facebook.com/hoteljirinka/posts/pfbid02qyP96dMHhe27qXiFzKn8qJNd8wGcztarXQHhSfwKz8DyWXDYkW4V6uqXBzpk1Ab3l)
 
-- | 18.7. at 18:30, Hotel Jiřinka, Dolní Morava
+- | [18.7. at 18:30, Hotel Jiřinka, Dolní Morava](https://www.facebook.com/hoteljirinka/posts/pfbid0wj8URCiiEY6m34EHNo4ttB3RjAwDE2PihnyqMBcXGwWmpLbXGbqVoKWUCtLrjfjUl)
 
-- | 1.8. at 18:30, Hotel Jiřinka, Dolní Morava
+- | 8.8. (~~moved from 1.8.~~) at 18:30, Hotel Jiřinka, Dolní Morava
 
 - | 29.8. at 18:30, Hotel Jiřinka, Dolní Morava
 
