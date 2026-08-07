@@ -25,9 +25,9 @@ menu: main
 
 - | [18.7. at 18:30, Hotel Jiřinka, Dolní Morava](https://www.facebook.com/hoteljirinka/posts/pfbid0wj8URCiiEY6m34EHNo4ttB3RjAwDE2PihnyqMBcXGwWmpLbXGbqVoKWUCtLrjfjUl)
 
-- | 8.8. (~~moved from 1.8.~~) at 18:30, Hotel Jiřinka, Dolní Morava
+- | 8.8. (~~moved from 1.8.~~) at 18:00, Hotel Jiřinka, Dolní Morava
 
-- | 29.8. at 18:30, Hotel Jiřinka, Dolní Morava
+- | 29.8. at 18:00, Hotel Jiřinka, Dolní Morava
 
 - | 19.9. at 17:30, Fair 2026, Červená Voda
 
