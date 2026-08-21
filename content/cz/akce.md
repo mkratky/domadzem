@@ -27,7 +27,7 @@ menu: main
 
 - | [8.8. (~~přeloženo z 1.8.~~) v 18:00, Hotel Jiřinka, Dolní Morava](https://www.facebook.com/hoteljirinka/posts/pfbid02PsxBfwMK5Mwei91dZ2WKd6fd3sQrot8xXXS4X92aEkHVg4CxPUWjdqvLsMy2ysyyl)
 
-- | 29.8. v 18:00, Hotel Jiřinka, Dolní Morava
+- | [29.8. v 17:00, Hotel Jiřinka, Dolní Morava](https://fb.watch/J7T-QvOVtc/)
 
 - | 19.9. v 17:30, Červenovodská pouť 2026, Červená Voda
 
