@@ -1,12 +1,12 @@
 ---
 title: "DOMÁCÍ DŽEM"
-description: "DomaDzem je vaše kapela pro pohodové akce"
+description: "DomaDžem je vaše kapela pro pohodové akce"
 cascade:
   featured_image: '/images/domadzem.jpg'
 theme_version: '2.8.2'
 ---
 
-Domácí Džem, zkráceně DomaDzem, je parta tří muzikantů, které spojuje láska k dobré muzice. Nejvíc nás baví britský rock, pop a soul, a proto v našem repertoáru najdete hlavně známé světové písničky. Nehrajeme je ale jako přes kopírák, dáváme jim vlastní, originální tvář.
+Domácí Džem, zkráceně DomaDžem, je parta tří muzikantů, které spojuje láska k dobré muzice. Nejvíc nás baví britský rock, pop a soul, a proto v našem repertoáru najdete hlavně známé světové písničky. Nehrajeme je ale jako přes kopírák, dáváme jim vlastní, originální tvář.
 
 I když jsme jenom tři, náš zvuk vás překvapí svou plností a energií. Baví nás totiž propojovat tradiční věci s těmi moderními.
 

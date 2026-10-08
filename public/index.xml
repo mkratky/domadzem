@@ -1,46 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>DOMÁCÍ DŽEM on DOMÁCÍ DŽEM  DomaDzem</title>
-    <link>http://domacidzem.cz/</link>
-    <description>Recent content in DOMÁCÍ DŽEM on DOMÁCÍ DŽEM  DomaDzem</description>
-    <generator>Hugo</generator>
-    <language>cs-cz</language>
-    <atom:link href="http://domacidzem.cz/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Akce</title>
-      <link>http://domacidzem.cz/akce/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://domacidzem.cz/akce/</guid>
-      <description>2026&#xA;| 24.1. v 19:00, Hotel Jiřinka, Dolní Morava&#xA;| 14.2. v 19:00, Hotel Jiřinka, Dolní Morava&#xA;| 28.2. v 19:00, Hotel Jiřinka, Dolní Morava&#xA;| 16.5. v 20:00, Kavárna na Střelnici, Králíky&#xA;| 13.6. v 18:30, Sousedská slavnost, Střelnice, Králíky&#xA;| 4.7. v 18:30, Hotel Jiřinka, Dolní Morava&#xA;| 18.7. v 18:30, Hotel Jiřinka, Dolní Morava&#xA;| 8.8. (přeloženo z 1.8.) v 18:00, Hotel Jiřinka, Dolní Morava&#xA;| 29.8. v 17:00, Hotel Jiřinka, Dolní Morava</description>
-    </item>
-    <item>
-      <title>Kdo jsme</title>
-      <link>http://domacidzem.cz/kdo-jsme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://domacidzem.cz/kdo-jsme/</guid>
-      <description>Babeta - sólový zpěv a piánoCoby frontman se stará o melodičnost a energii každé písničky. Své hudební kořeny má mimo jiné ve finále celostátní soutěže Mladá píseň.&#xA;Míra - basová a sólová kytara, vokályJeho basové linky jsou příjemně měkké a zpěvné. Je to dáno tím, že celý život hrál na elektrickou kytaru, za jejíž procítěné ovládání získal ocenění a pozvání do známého pořadu Michala Pavlíčka Na Kloboučku.&#xA;Marek - aerophone a akustická kytara, vokályNáš „kouzelník“ s dechovými nástroji.</description>
-    </item>
-    <item>
-      <title>Kontakt</title>
-      <link>http://domacidzem.cz/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://domacidzem.cz/contact/</guid>
-      <description>Facebook: facebook.com/domadzem&#xA;Youtube: youtube.com/@domacidzem&#xA;Email: domadzem@gmail.com</description>
-    </item>
-    <item>
-      <title>Pro pořadatele</title>
-      <link>http://domacidzem.cz/stageplan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://domacidzem.cz/stageplan/</guid>
-      <description>Plakát Stáhnout plakát&#xA;Rozložení nástrojů a zvukové techniky na pódiu Stáhnout náhled pódia&#xA;Plán pódia pro zapojení do elektrické sítě Stáhnout plán pódia</description>
-    </item>
-    <item>
-      <title>Repertoár</title>
-      <link>http://domacidzem.cz/repertoar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://domacidzem.cz/repertoar/</guid>
-      <description>Hrajeme cover verze skladeb:&#xA;You&amp;rsquo;ve Got The Love&#xA;Human&#xA;Never Tear Us Apart&#xA;Far Far&#xA;Every Breath You Take&#xA;Back to Black&#xA;Make You Feel My Love&#xA;Someone Like Me&#xA;Falling Slowly&#xA;Heart of Gold&#xA;Too Much Love&#xA;She&amp;rsquo;s Gone&#xA;Only Love Can Hurt Like This&#xA;Torn&#xA;Fields of Gold&#xA;You Know I&amp;rsquo;m No Good&#xA;Don’t Speak&#xA;Always Remember Us Like This&#xA;After Love&#xA;Never Be The Same Again&#xA;Just Be</description>
-    </item>
-  </channel>
+	<channel>
+		<title>DOMÁCÍ DŽEM on DOMÁCÍ DŽEM alias DomaDžem</title>
+		<link>http://domacidzem.cz/</link>
+		<description>Recent content in DOMÁCÍ DŽEM on DOMÁCÍ DŽEM alias DomaDžem</description>
+		<generator>Hugo</generator>
+		<language>cs-cz</language>
+		
+		
+		
+		
+			<atom:link href="http://domacidzem.cz/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Akce</title>
+				<link>http://domacidzem.cz/akce/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://domacidzem.cz/akce/</guid>
+				<description>&lt;p&gt;2026&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| 24.1. v 19:00, Hotel Jiřinka, Dolní Morava&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://www.facebook.com/hoteljirinka/posts/pfbid02E2Mo7uQAyKMs3xEMFYb2w43GThgoBz88Yp6sHdHoihYPf1RxBwSXKetAwpgsif2yl&#34;&gt;14.2. v 19:00, Hotel Jiřinka, Dolní Morava&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://www.facebook.com/share/v/1BjPEkkRQc/&#34;&gt;28.2. v 19:00, Hotel Jiřinka, Dolní Morava&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://www.facebook.com/permalink.php?story_fbid=pfbid0NGXpRFECEksNdQftz2nqzgXAhCrpEpCTpWbv23NWCheZDAtLBm7ANUBGk4Ch6vo8l&amp;amp;id=100054493928106&#34;&gt;16.5. v 20:00, Kavárna na Střelnici, Králíky&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://www.facebook.com/events/1982517959046264/&#34;&gt;13.6. v 18:30, Sousedská slavnost, Střelnice, Králíky&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://www.facebook.com/hoteljirinka/posts/pfbid02qyP96dMHhe27qXiFzKn8qJNd8wGcztarXQHhSfwKz8DyWXDYkW4V6uqXBzpk1Ab3l&#34;&gt;4.7. v 18:30, Hotel Jiřinka, Dolní Morava&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://www.facebook.com/hoteljirinka/posts/pfbid0wj8URCiiEY6m34EHNo4ttB3RjAwDE2PihnyqMBcXGwWmpLbXGbqVoKWUCtLrjfjUl&#34;&gt;18.7. v 18:30, Hotel Jiřinka, Dolní Morava&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://www.facebook.com/hoteljirinka/posts/pfbid02PsxBfwMK5Mwei91dZ2WKd6fd3sQrot8xXXS4X92aEkHVg4CxPUWjdqvLsMy2ysyyl&#34;&gt;8.8. (&lt;del&gt;přeloženo z 1.8.&lt;/del&gt;) v 18:00, Hotel Jiřinka, Dolní Morava&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://fb.watch/J7T-QvOVtc/&#34;&gt;&lt;del&gt;29.8. v 17:00, Hotel Jiřinka, Dolní Morava&lt;/del&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://www.facebook.com/sportovniarealdm.cz/posts/pfbid037EmJbMev4MfxNeRc42Hiuh9gQLPdJi2zgPMaypV29M3rB7xmimdUQtwx3Ap15uPfl&#34;&gt;29.8. v 17:30, Sportovní areál Kemp a autokemp, Dolní Morava&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://www.cervenavoda.cz/kalendar-akci/cervenovodska-pout-8&#34;&gt;19.9. v 17:30, Červenovodská pouť 2026, Červená Voda&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://fb.me/e/557HJvkHZ&#34;&gt;27.10. at 18:00, Music cafe TY∙JÁ∙TR, Letohrad&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| 7.11. v 20:00, Kavárna na Střelnici, Králíky&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Kdo jsme</title>
+				<link>http://domacidzem.cz/kdo-jsme/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://domacidzem.cz/kdo-jsme/</guid>
+				<description>&lt;figure&gt;&lt;img src=&#34;http://domacidzem.cz/images/babeta.jpg&#34;&#xA;  &#x9;&#x9;&#x9;alt=&#34;Coby frontman se stará o melodičnost a energii každé písničky. Své hudební kořeny má mimo jiné ve finále celostátní soutěže Mladá píseň.&#34;&gt;&lt;figcaption&gt;&#xA;  &#x9;&#x9;&#x9;&lt;h4&gt;Babeta - sólový zpěv a piáno&lt;/h4&gt;&lt;p&gt;Coby frontman se stará o melodičnost a energii každé písničky. Své hudební kořeny má mimo jiné ve finále celostátní soutěže Mladá píseň.&lt;/p&gt;&#xA;  &#x9;&#x9;&lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://domacidzem.cz/images/mira.jpg&#34;&#xA;  &#x9;&#x9;&#x9;alt=&#34;Jeho basové linky jsou příjemně měkké a zpěvné. Je to dáno tím, že celý život hrál na elektrickou kytaru, za jejíž procítěné ovládání získal ocenění a pozvání do známého pořadu Michala Pavlíčka Na Kloboučku.&#34;&gt;&lt;figcaption&gt;&#xA;  &#x9;&#x9;&#x9;&lt;h4&gt;Míra - basová a sólová kytara, vokály&lt;/h4&gt;&lt;p&gt;Jeho basové linky jsou příjemně měkké a zpěvné. Je to dáno tím, že celý život hrál na elektrickou kytaru, za jejíž procítěné ovládání získal ocenění a pozvání do známého pořadu Michala Pavlíčka Na Kloboučku.&lt;/p&gt;&#xA;  &#x9;&#x9;&lt;/figcaption&gt;&#xA;  &lt;/figure&gt;</description>
+			</item>
+			<item>
+				<title>Kontakt</title>
+				<link>http://domacidzem.cz/contact/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://domacidzem.cz/contact/</guid>
+				<description>&lt;p&gt;Facebook: &lt;a href=&#34;https://www.facebook.com/domadzem&#34;&gt;facebook.com/domadzem&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Youtube: &lt;a href=&#34;https://www.youtube.com/@domacidzem&#34;&gt;youtube.com/@domacidzem&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Instagram: &lt;a href=&#34;https://www.instagram.com/domadzem&#34;&gt;https://www.instagram.com/domadzem&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:domadzem@gmail.com&#34;&gt;domadzem@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Pro pořadatele</title>
+				<link>http://domacidzem.cz/stageplan/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://domacidzem.cz/stageplan/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Plakát&lt;/strong&gt; &lt;figure&gt;&lt;img src=&#34;http://domacidzem.cz/images/poster.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;a href=&#34;http://domacidzem.cz/images/poster.jpg&#34;&gt;Stáhnout plakát&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Rozložení nástrojů a zvukové techniky na pódiu&lt;/strong&gt; &lt;figure&gt;&lt;img src=&#34;http://domacidzem.cz/images/stageview.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;a href=&#34;http://domacidzem.cz/images/stageview.jpg&#34;&gt;Stáhnout náhled pódia&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Plán pódia pro zapojení do elektrické sítě&lt;/strong&gt; &lt;figure&gt;&lt;img src=&#34;http://domacidzem.cz/images/stageplan.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;a href=&#34;http://domacidzem.cz/images/stageplan.jpg&#34;&gt;Stáhnout plán pódia&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Repertoár</title>
+				<link>http://domacidzem.cz/repertoar/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://domacidzem.cz/repertoar/</guid>
+				<description>&lt;p&gt;Hrajeme cover verze skladeb:&lt;/p&gt;&#xA;&lt;p&gt;You&amp;rsquo;ve Got The Love&lt;/p&gt;&#xA;&lt;p&gt;Human&lt;/p&gt;&#xA;&lt;p&gt;Never Tear Us Apart&lt;/p&gt;&#xA;&lt;p&gt;Far Far&lt;/p&gt;&#xA;&lt;p&gt;Every Breath You Take&lt;/p&gt;&#xA;&lt;p&gt;Back to Black&lt;/p&gt;&#xA;&lt;p&gt;Make You Feel My Love&lt;/p&gt;&#xA;&lt;p&gt;Someone Like Me&lt;/p&gt;&#xA;&lt;p&gt;Falling Slowly&lt;/p&gt;&#xA;&lt;p&gt;Heart of Gold&lt;/p&gt;&#xA;&lt;p&gt;Too Much Love&lt;/p&gt;&#xA;&lt;p&gt;She&amp;rsquo;s Gone&lt;/p&gt;&#xA;&lt;p&gt;Only Love Can Hurt Like This&lt;/p&gt;&#xA;&lt;p&gt;Torn&lt;/p&gt;&#xA;&lt;p&gt;Fields of Gold&lt;/p&gt;&#xA;&lt;p&gt;You Know I&amp;rsquo;m No Good&lt;/p&gt;&#xA;&lt;p&gt;Don’t Speak&lt;/p&gt;&#xA;&lt;p&gt;Always Remember Us Like This&lt;/p&gt;&#xA;&lt;p&gt;After Love&lt;/p&gt;&#xA;&lt;p&gt;Never Be The Same Again&lt;/p&gt;&#xA;&lt;p&gt;Just Be&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

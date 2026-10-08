@@ -1,6 +1,6 @@
 baseURL = 'http://domacidzem.cz/'
-title = 'DOMÁCÍ DŽEM  DomaDzem'
-theme = 'ananke'
+title = 'DOMÁCÍ DŽEM alias DomaDžem'
+theme = 'ananke.v2'
 resourceDir = "../resources"
 defaultContentLanguage = "czech"
 
@@ -12,15 +12,17 @@ mainSections = ["post"]
 background_color_class = "bg-mid-gray"
 cover_dimming_class = "bg-black-30"
 dimming_class = "bg-black-30"
-[[params.ananke_socials]]
-name = "facebook"
-url = "https://www.facebook.com/domadzem"
-[[params.ananke_socials]]
-name = "youtube"
-url = "https://www.youtube.com/@domacidzem"
-[[params.ananke_socials]]
-name = "instagram"
-url = "https://www.instagram.com/domadzem"
+[params.ananke.social.follow]
+networks = ["facebook", "youtube", "instagram"]
+
+[params.ananke.social.facebook]
+profilelink = "https://www.facebook.com/domadzem"
+
+[params.ananke.social.youtube]
+profilelink = "https://www.youtube.com/@domacidzem"
+
+[params.ananke.social.instagram]
+profilelink = "https://www.instagram.com/domadzem"
 
 [languages]
 [languages.czech]

@@ -31,9 +31,11 @@ menu: main
 
 - | [29.8. at 17:30, Sportovní areál Kemp a autokemp, Dolní Morava](https://www.facebook.com/sportovniarealdm.cz/posts/pfbid037EmJbMev4MfxNeRc42Hiuh9gQLPdJi2zgPMaypV29M3rB7xmimdUQtwx3Ap15uPfl)
 
-- | 19.9. at 17:30, Fair 2026, Červená Voda
+- | [19.9. at 17:30, Fair 2026, Červená Voda](https://www.cervenavoda.cz/kalendar-akci/cervenovodska-pout-8)
 
-- | [27.10. at 18:00 Hudební kavárna TY∙JÁ∙TR, Letohrad](https://www.facebook.com/hudebnikavarna/posts/pfbid02S6Tnn1tzzc1ErmUey5oEABjJc99gxSMPkutjgCmABN2yEwsSuP5z2aGSnK6rBwyXl)
+- | [27.10. at 18:00 Hudební kavárna TY∙JÁ∙TR, Letohrad](https://fb.me/e/557HJvkHZ)
+
+- | 7.11. at 20:00, Kavárna na Střelnici, Králíky
 
 
 2025

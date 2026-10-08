@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>DOMÁCÍ DŽEM on My New Hugo Project</title>
+		<link>http://localhost:1313/en/</link>
+		<description>Recent content in DOMÁCÍ DŽEM on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Events</title>
+				<link>http://localhost:1313/en/akce/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/akce/</guid>
+				<description>&lt;p&gt;2026&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| 24.1. at 19:00, Hotel Jiřinka, Dolní Morava&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://www.facebook.com/hoteljirinka/posts/pfbid02E2Mo7uQAyKMs3xEMFYb2w43GThgoBz88Yp6sHdHoihYPf1RxBwSXKetAwpgsif2yl&#34;&gt;14.2. at 19:00, Hotel Jiřinka, Dolní Morava&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://www.facebook.com/share/v/1BjPEkkRQc/&#34;&gt;28.2. at 19:00, Hotel Jiřinka, Dolní Morava&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://www.facebook.com/permalink.php?story_fbid=pfbid0NGXpRFECEksNdQftz2nqzgXAhCrpEpCTpWbv23NWCheZDAtLBm7ANUBGk4Ch6vo8l&amp;amp;id=100054493928106&#34;&gt;16.5. at 20:00, Kavárna na Střelnici, Králíky&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://www.facebook.com/events/1982517959046264/&#34;&gt;13.6. at 18:30, Sousedská slavnost, Střelnice, Králíky&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://www.facebook.com/hoteljirinka/posts/pfbid02qyP96dMHhe27qXiFzKn8qJNd8wGcztarXQHhSfwKz8DyWXDYkW4V6uqXBzpk1Ab3l&#34;&gt;4.7. at 18:30, Hotel Jiřinka, Dolní Morava&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://www.facebook.com/hoteljirinka/posts/pfbid0wj8URCiiEY6m34EHNo4ttB3RjAwDE2PihnyqMBcXGwWmpLbXGbqVoKWUCtLrjfjUl&#34;&gt;18.7. at 18:30, Hotel Jiřinka, Dolní Morava&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://www.facebook.com/hoteljirinka/posts/pfbid02PsxBfwMK5Mwei91dZ2WKd6fd3sQrot8xXXS4X92aEkHVg4CxPUWjdqvLsMy2ysyyl&#34;&gt;8.8. (&lt;del&gt;moved from 1.8.&lt;/del&gt;) at 18:00, Hotel Jiřinka, Dolní Morava&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://fb.watch/J7T-QvOVtc/&#34;&gt;&lt;del&gt;29.8. at 17:00, Hotel Jiřinka, Dolní Morava&lt;/del&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://www.facebook.com/sportovniarealdm.cz/posts/pfbid037EmJbMev4MfxNeRc42Hiuh9gQLPdJi2zgPMaypV29M3rB7xmimdUQtwx3Ap15uPfl&#34;&gt;29.8. at 17:30, Sportovní areál Kemp a autokemp, Dolní Morava&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| 19.9. at 17:30, Fair 2026, Červená Voda&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://www.facebook.com/hudebnikavarna/posts/pfbid02S6Tnn1tzzc1ErmUey5oEABjJc99gxSMPkutjgCmABN2yEwsSuP5z2aGSnK6rBwyXl&#34;&gt;27.10. at 18:00 Hudební kavárna TY∙JÁ∙TR, Letohrad&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Playlist</title>
+				<link>http://localhost:1313/en/repertoar/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/repertoar/</guid>
+				<description>&lt;p&gt;We play cover versions of the songs:&lt;/p&gt;&#xA;&lt;p&gt;You&amp;rsquo;ve Got The Love&lt;/p&gt;&#xA;&lt;p&gt;Human&lt;/p&gt;&#xA;&lt;p&gt;Never Tear Us Apart&lt;/p&gt;&#xA;&lt;p&gt;Far Far&lt;/p&gt;&#xA;&lt;p&gt;Every Breath You Take&lt;/p&gt;&#xA;&lt;p&gt;Back to Black&lt;/p&gt;&#xA;&lt;p&gt;Make You Feel My Love&lt;/p&gt;&#xA;&lt;p&gt;Someone Like Me&lt;/p&gt;&#xA;&lt;p&gt;Falling Slowly&lt;/p&gt;&#xA;&lt;p&gt;Heart of Gold&lt;/p&gt;&#xA;&lt;p&gt;Too Much Love&lt;/p&gt;&#xA;&lt;p&gt;She&amp;rsquo;s Gone&lt;/p&gt;&#xA;&lt;p&gt;Only Love Can Hurt Like This&lt;/p&gt;&#xA;&lt;p&gt;Torn&lt;/p&gt;&#xA;&lt;p&gt;Fields of Gold&lt;/p&gt;&#xA;&lt;p&gt;You Know I&amp;rsquo;m No Good&lt;/p&gt;&#xA;&lt;p&gt;Don’t Speak&lt;/p&gt;&#xA;&lt;p&gt;Always Remember Us Like This&lt;/p&gt;&#xA;&lt;p&gt;After Love&lt;/p&gt;&#xA;&lt;p&gt;Never Be The Same Again&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Reach out</title>
+				<link>http://localhost:1313/en/contact/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/contact/</guid>
+				<description>&lt;p&gt;Facebook: &lt;a href=&#34;https://www.facebook.com/domadzem&#34;&gt;facebook.com/domadzem&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Youtube: &lt;a href=&#34;https://www.youtube.com/@domacidzem&#34;&gt;youtube.com/@domacidzem&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:domadzem@gmail.com&#34;&gt;domadzem@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Stage plan</title>
+				<link>http://localhost:1313/en/stageplan/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/stageplan/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Poster&lt;/strong&gt; &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/poster.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;a href=&#34;http://localhost:1313/images/poster.jpg&#34;&gt;Dowload poster&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Stage layout showing the placement of instruments and sound equipment&lt;/strong&gt; &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/stageview.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;a href=&#34;http://localhost:1313/images/stageview.jpg&#34;&gt;Dowload stage layout&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Stage plan for electrical network setup&lt;/strong&gt; &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/stageplan.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;a href=&#34;http://localhost:1313/images/stageplan.jpg&#34;&gt;Download stage plan&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Who We Are</title>
+				<link>http://localhost:1313/en/kdo-jsme/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/kdo-jsme/</guid>
+				<description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/babeta.jpg&#34;&#xA;  &#x9;&#x9;&#x9;alt=&#34;As the frontman, she takes care of the melody and energy of every song. Her musical roots include, among other achievements, reaching the finals of the national Mladá píseň competition.&#34;&gt;&lt;figcaption&gt;&#xA;  &#x9;&#x9;&#x9;&lt;h4&gt;Babeta - lead vocals and piano&lt;/h4&gt;&lt;p&gt;As the frontman, she takes care of the melody and energy of every song. Her musical roots include, among other achievements, reaching the finals of the national Mladá píseň competition.&lt;/p&gt;&#xA;  &#x9;&#x9;&lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/mira.jpg&#34;&#xA;  &#x9;&#x9;&#x9;alt=&#34;His basslines are pleasantly smooth and melodic. This comes from a lifetime of playing the electric guitar—an instrument he mastered with such deep feeling that it earned him awards and an invitation to Michal Pavlíček’s renowned TV show, Na Kloboučku.&#34;&gt;&lt;figcaption&gt;&#xA;  &#x9;&#x9;&#x9;&lt;h4&gt;Míra - bass and electric guitar, backing vocals&lt;/h4&gt;&lt;p&gt;His basslines are pleasantly smooth and melodic. This comes from a lifetime of playing the electric guitar—an instrument he mastered with such deep feeling that it earned him awards and an invitation to Michal Pavlíček’s renowned TV show, Na Kloboučku.&lt;/p&gt;&#xA;  &#x9;&#x9;&lt;/figcaption&gt;&#xA;  &lt;/figure&gt;</description>
+			</item>
+	</channel>
+</rss>
